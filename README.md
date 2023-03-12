@@ -9,7 +9,7 @@ Provide PushKit functionality to ionic capacitor
 1. Install plugin
 ```bash
 npm install capacitor-callkit-voip
-ionic cap sync
+npx cap sync
 ```
 
 2. Xcode Project > Capabilities pane. Select the checkbox for Voice over IP, as shown in Image
