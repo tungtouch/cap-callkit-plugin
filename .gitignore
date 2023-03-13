@@ -4,9 +4,8 @@ node_modules
 
 # iOS files
 # Pods
-Podfile.lock
-Build
-xcuserdata
+# Podfile.lock
+# xcuserdata
 
 # macOS files
 .DS_Store
@@ -23,12 +22,12 @@ xcuserdata
 *.dex
 
 # Java class files
-*.class
+# *.class
 
 # Generated files
-bin
-gen
-out
+# bin
+# gen
+# out
 
 # Gradle files
 # .gradle
