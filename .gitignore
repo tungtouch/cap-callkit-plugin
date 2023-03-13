@@ -3,7 +3,7 @@ dist
 node_modules
 
 # iOS files
-Pods
+# Pods
 Podfile.lock
 Build
 xcuserdata
@@ -31,7 +31,7 @@ gen
 out
 
 # Gradle files
-.gradle
+# .gradle
 build
 
 # Local configuration file (sdk path, etc)
