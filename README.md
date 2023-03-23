@@ -8,7 +8,7 @@ Provide PushKit functionality to ionic capacitor
 
 1. Install plugin
 ```bash
-npm install capacitor-callkit-voip
+npm install cap-callkit-lib
 npx cap sync
 ```
 
